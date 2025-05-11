@@ -1,0 +1,144 @@
+[2025-05-11 20:42:02]	[info] incremental build: 54 source files changed
+These source files will be recompiled
+---
+'e:\比赛\2025中国机器人\源码\源码\AutoRecharge\AutoRecharge.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\balance.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\imu_task.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\robot_select_init.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\show.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\system.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\CORE\startup_stm32f40_41xxx.s': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\misc.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_adc.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_can.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_gpio.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_pwr.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_rcc.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_syscfg.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_tim.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_usart.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\croutine.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\event_groups.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\list.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\portable\MemMang\heap_4.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\portable\RVDS\ARM_CM4F\port.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\queue.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\tasks.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\timers.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\I2C.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\ICM20948\ICM20948.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\LED.C': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\MPU6050\MPU6050.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Class\HID\src\usbh_hid_core.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Core\src\usbh_core.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Core\src\usbh_hcs.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Core\src\usbh_ioreq.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Core\src\usbh_stdreq.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_OTG_Driver\src\usb_core.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_OTG_Driver\src\usb_hcd.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_OTG_Driver\src\usb_hcd_int.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\USB_APP\usb_bsp.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\USB_APP\usbh_hid_joy.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\USB_APP\usbh_usr.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\adc.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\can.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\encoder.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\key.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\motor.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\oled.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\pstwo.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\timer.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\usartx.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\SYSTEM\delay\delay.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\SYSTEM\sys\sys.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\SYSTEM\usart\usart.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\USER\main.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\USER\stm32f4xx_it.c': object (.o) file not exist
+'e:\比赛\2025中国机器人\源码\源码\USER\system_stm32f4xx.c': object (.o) file not exist
+
+[2025-05-11 20:42:06]	[done]
+	build successfully !
+
+[2025-05-11 20:44:38]	[info] incremental build: 54 source files changed
+These source files will be recompiled
+---
+'e:\比赛\2025中国机器人\源码\源码\AutoRecharge\AutoRecharge.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\balance.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\imu_task.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\robot_select_init.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\show.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\BALANCE\system.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\CORE\startup_stm32f40_41xxx.s': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\misc.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_adc.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_can.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_gpio.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_pwr.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_rcc.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_syscfg.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_tim.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FWLIB\src\stm32f4xx_usart.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\croutine.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\event_groups.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\list.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\portable\MemMang\heap_4.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\portable\RVDS\ARM_CM4F\port.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\queue.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\tasks.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\FreeRTOS\timers.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\I2C.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\ICM20948\ICM20948.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\LED.C': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\MPU6050\MPU6050.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Class\HID\src\usbh_hid_core.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Core\src\usbh_core.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Core\src\usbh_hcs.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Core\src\usbh_ioreq.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_HOST_Library\Core\src\usbh_stdreq.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_OTG_Driver\src\usb_core.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_OTG_Driver\src\usb_hcd.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\STM32_USB_OTG_Driver\src\usb_hcd_int.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\USB_APP\usb_bsp.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\USB_APP\usbh_hid_joy.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\USB\USB_APP\usbh_usr.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\adc.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\can.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\encoder.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\key.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\motor.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\oled.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\pstwo.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\timer.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\HARDWARE\usartx.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\SYSTEM\delay\delay.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\SYSTEM\sys\sys.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\SYSTEM\usart\usart.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\USER\main.c': source file has been changed.
+'e:\比赛\2025中国机器人\源码\源码\USER\stm32f4xx_it.c': compiler options has been changed.
+'e:\比赛\2025中国机器人\源码\源码\USER\system_stm32f4xx.c': compiler options has been changed.
+
+[2025-05-11 20:44:41]	[done]
+	build successfully !
+
+[2025-05-11 20:47:59]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'e:\比赛\2025中国机器人\源码\源码\USER\main.c': source file has been changed.
+
+[2025-05-11 20:48:00]	[done]
+	build successfully !
+
+[2025-05-11 21:01:25]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'e:\比赛\2025中国机器人\源码\源码\USER\main.c': source file has been changed.
+
+[2025-05-11 21:01:25]	[done]
+	build successfully !
+
+[2025-05-11 21:06:35]	[done]
+	build successfully !
+
+[2025-05-11 21:07:34]	[done]
+	build successfully !
+

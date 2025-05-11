@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"balance.h": "c",
+			"usbh_hid_joy.h": "c"
+		}
+	}
+}
