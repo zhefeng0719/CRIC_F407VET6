@@ -1,2 +1,2 @@
 # AI_Car compete
-huh?this is just a test 
+机器人及其人工智能国二代码，全流程完赛时长2分钟，基于轮趣科技C30DV2开发，兼容ROS接口
